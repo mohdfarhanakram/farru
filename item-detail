@@ -1,6 +1,6 @@
 {
   "result": 1,
-  "msg": "Fetched Successfully",
+  "msg": "Fetched Item Data Successfully",
   "data": {
     "itemId": "1234",
     "itemImage": "",
