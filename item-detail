@@ -1,0 +1,15 @@
+  "result": 1,
+  "msg": "Fetched Successfully",
+  "data": {
+    "itemId": "1234",
+    "itemImage": "",
+    "itemName": "",
+    "itemDesc": "",
+    "itemRating": 3,
+    "itemReview": "13",
+    "itemPrice": "100",
+    "itemSpecialPrice": "90",
+    "itemColorCode": "#000000",
+    "itemColorText": "Black"
+  }
+}
