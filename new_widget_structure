@@ -1,0 +1,214 @@
+{
+  "code": "1",
+  "message": "Success",
+  "data": {
+    "blocks": [
+      {
+        "type": "16",
+        "title": "",
+        "viewMore": "",
+        "widgetData": [
+          {
+            "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/wysiwyg\/Ecommerce_Spices-Banner.jpg",
+            "deeplink": "category_id\/2906",
+            "magazine_pdf_url": ""
+          },
+          {
+            "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/wysiwyg\/DIY_Web-Banner-01.jpg",
+            "deeplink": "magazine",
+            "magazine_pdf_url": "https:\/\/drive.google.com\/file\/d\/1Z67K7rMFxyO4-fgf3r_MDoXBd51UwyF1\/view?usp=sharing"
+          },
+          {
+            "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/wysiwyg\/E-commerce-New-Size_1.jpg",
+            "deeplink": "category_id\/2906",
+            "magazine_pdf_url": ""
+          },
+          {
+            "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/wysiwyg\/alrawdah-3-1454x528.jpg",
+            "deeplink": "category_id\/2906",
+            "magazine_pdf_url": ""
+          },
+          {
+            "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/wysiwyg\/Ecommerce_Spices-Banner.jpg",
+            "deeplink": "category_id\/2906",
+            "magazine_pdf_url": ""
+          }
+        ]
+      },
+      {
+        "type": "20",
+        "title": "",
+        "viewMore": "",
+        "widgetData": [
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/mobiledahsboard\/servicenewtop1.png",
+            "deeplink": "",
+            "is_login_required": "false",
+            "name": "Fruit & Vegtables",
+            "offer_title": "Up To",
+            "offer_text": "50% OFF"
+          },
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/mobiledahsboard\/servicenewtop4.png",
+            "deeplink": "",
+            "is_login_required": "false",
+            "name": "Cheese Shop",
+            "offer_title": "Up To",
+            "offer_text": "50% OFF"
+          },
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/mobiledahsboard\/servicenewtop1.png",
+            "deeplink": "",
+            "is_login_required": "false",
+            "name": "Meat & Fish",
+            "offer_title": "Up To",
+            "offer_text": "50% OFF"
+          },
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/mobiledahsboard\/servicenewtop4.png",
+            "deeplink": "",
+            "is_login_required": "false",
+            "name": "Kitchen Shop",
+            "offer_title": "Up To",
+            "offer_text": "50% OFF"
+          }
+        ]
+      },
+      {
+        "type": "21",
+        "title": "",
+        "viewMore": "",
+        "widgetData": [
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/mobiledahsboard\/servicenewtop1.png",
+            "deeplink": "",
+            "is_login_required": "false",
+            "name": "Fruit & Vegtables",
+            "offer_title": "Up To",
+            "offer_text": "50% OFF"
+          },
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/mobiledahsboard\/servicenewtop4.png",
+            "deeplink": "",
+            "is_login_required": "false",
+            "name": "Cheese Shop",
+            "offer_title": "Up To",
+            "offer_text": "50% OFF"
+          },
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/mobiledahsboard\/servicenewtop1.png",
+            "deeplink": "",
+            "is_login_required": "false",
+            "name": "Meat & Fish",
+            "offer_title": "Up To",
+            "offer_text": "50% OFF"
+          },
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/mobiledahsboard\/servicenewtop4.png",
+            "deeplink": "",
+            "is_login_required": "false",
+            "name": "Kitchen Shop",
+            "offer_title": "Up To",
+            "offer_text": "50% OFF"
+          }
+        ]
+      },
+      {
+        "type": "22",
+        "title": "",
+        "viewMore": "",
+        "widgetData": [
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/mobiledahsboard\/servicenewtop1.png",
+            "deeplink": "",
+            "is_login_required": "false",
+            "name": "Fruit & Vegtables",
+            "offer_title": "Up To",
+            "offer_text": "50% OFF"
+          },
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/mobiledahsboard\/servicenewtop4.png",
+            "deeplink": "",
+            "is_login_required": "false",
+            "name": "Cheese Shop",
+            "offer_title": "Up To",
+            "offer_text": "50% OFF"
+          },
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/mobiledahsboard\/servicenewtop1.png",
+            "deeplink": "",
+            "is_login_required": "false",
+            "name": "Meat & Fish",
+            "offer_title": "Up To",
+            "offer_text": "50% OFF"
+          },
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/mobiledahsboard\/servicenewtop4.png",
+            "deeplink": "",
+            "is_login_required": "false",
+            "name": "Kitchen Shop",
+            "offer_title": "Up To",
+            "offer_text": "50% OFF"
+          }
+        ]
+      },
+      {
+        "type": "23",
+        "title": "Water, JUice & Coffee",
+        "viewMore": "",
+        "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/mobiledahsboard\/servicenewtop1.png",
+        "color_code": "#456745",
+        "widgetData": [
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/mobiledahsboard\/servicenewtop1.png",
+            "deeplink": "",
+            "name": "Fruit & Vegtables"
+          },
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/mobiledahsboard\/servicenewtop4.png",
+            "deeplink": "",
+            "name": "Cheese Shop"
+          },
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/mobiledahsboard\/servicenewtop1.png",
+            "deeplink": "",
+            "name": "Meat & Fish"
+          },
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/mobiledahsboard\/servicenewtop4.png",
+            "deeplink": "",
+            "name": "Kitchen Shop"
+          }
+        ]
+      },
+      {
+        "type": "24",
+        "title": "",
+        "viewMore": "",
+        "widgetData": [
+          {
+            "image": "",
+            "deeplink": "",
+            "name": "Food"
+          },
+          {
+            "image": "",
+            "deeplink": "",
+            "name": "Non Food"
+          },
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/mobiledahsboard\/servicenewtop1.png",
+            "deeplink": "",
+            "name": "Electronics"
+          },
+          {
+            "image": "https:\/\/uat.unioncoop.ae\/media\/wysiwyg\/mobiledahsboard\/servicenewtop4.png",
+            "deeplink": "",
+            "name": "Outdoors"
+          }
+        ]
+      }
+    ],
+    "pages": 4
+  }
+}
